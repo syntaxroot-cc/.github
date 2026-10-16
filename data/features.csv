@@ -1,0 +1,40 @@
+Module,Capability,What it does
+Incident Management,Incident tracking,"Log, assign, and resolve incidents from first alert to closure"
+Incident Management,Incident templates,Pre-filled templates for recurring incident types so tickets start complete
+Incident Management,Routing rules & assignment groups,Automatically route new incidents to the right team
+Incident Management,Escalation,Escalate incidents automatically when they stall or risk breaching SLA
+Incident Management,Incident linking,Link related incidents together and to their root-cause problems
+Problem Management,Problem records,Track the root causes behind repeat incidents
+Problem Management,Known Error Database (KEDB),Record known errors and workarounds so the next occurrence is solved in minutes
+Change Management,Change requests,"Plan, review, and schedule changes with risk and impact"
+Change Management,Change templates,Standard and repeatable change models for low-risk work
+Change Management,Approval inbox,One inbox for every change and request awaiting your approval
+Change Management,CAB meetings,Run Change Advisory Board reviews with agendas and outcomes on record
+Service Catalog,Catalog items & categories,Publish orderable IT services in a browsable catalog
+Service Catalog,Service requests,Users request services; fulfillment is tracked end to end
+Service Catalog,Request approvals & approver groups,Route requests through the right approvers automatically
+CMDB,Configuration items & CI classes,"Model servers, applications, services, and custom CI types"
+CMDB,Relationship mapping,See how services and infrastructure actually depend on each other
+CMDB,Automated cloud discovery,Discover and reconcile AWS resources via AWS Config so the CMDB doesn't go stale
+CMDB,CMDB health & staleness,Find CIs that haven't been verified recently
+CMDB,CMDB export,Export configuration data for audits and reporting
+Asset Management,Hardware & software assets,Track assets across their lifecycle
+Asset Management,Software license compliance,Allocate licenses and flag over- or under-deployment
+SLA Management,SLA targets,Response and resolution targets tracked against every ticket
+SLA Management,Business hours,SLA clocks that respect each team's working hours
+SLA Management,Automatic SLA application,Attach the right SLA to tickets automatically
+Knowledge Base,Knowledge articles,Capture fixes and runbooks once and reuse them
+Knowledge Base,Article health,Surface outdated or unused articles for review
+Notifications,Real-time notifications,Alert the right person the moment an assignment or approval needs them
+Notifications,Email & preferences,Per-user notification preferences and email delivery
+Reporting,Dashboards,"Operational dashboards for queues, SLAs, and trends"
+Reporting,Report export,Render and export reports for stakeholders
+Platform,Global search,"Find tickets, CIs, and articles from one search box"
+Platform,Multi-tenant organizations,Separate organizations with their own members and data (built for MSPs)
+Platform,Invite-only membership,Users join an organization by invitation
+Platform,Roles & permissions,Role-based access control
+Platform,Google sign-in,Single sign-on with Google accounts
+Platform,Tamper-evident audit log,Audit trail with integrity verification of who changed what and when
+Integrations,REST API,Versioned /api/v1 REST API with API-key authentication
+Integrations,Webhooks,Push events to your own systems as they happen
+Integrations,Ansible collection,"Populate the CMDB from Ansible facts, use it as dynamic inventory, and detect drift"
