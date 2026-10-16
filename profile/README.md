@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://syntaxroot.cc"><img src="https://img.shields.io/badge/Website-syntaxroot.cc-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:hello@syntaxroot.cc?subject=SyntaxRoot%20invitation%20request"><img src="https://img.shields.io/badge/Request_an_invite-hello@syntaxroot.cc-0F766E?style=for-the-badge&logo=maildotru&logoColor=white" alt="Request an invite"></a>
+  <a href="mailto:hello@thoughtparameters.com?subject=SyntaxRoot%20invitation%20request"><img src="https://img.shields.io/badge/Request_an_invite-hello@thoughtparameters.com-0F766E?style=for-the-badge&logo=maildotru&logoColor=white" alt="Request an invite"></a>
   <a href="https://thoughtparameters.com"><img src="https://img.shields.io/badge/By-Thought_Parameters_LLC-1D4ED8?style=for-the-badge" alt="A product of Thought Parameters LLC"></a>
 </p>
 
@@ -29,7 +29,7 @@
 ---
 
 > [!IMPORTANT]
-> **SyntaxRoot is invite-only right now.** There's no self-serve signup yet. Email **[hello@syntaxroot.cc](mailto:hello@syntaxroot.cc?subject=SyntaxRoot%20invitation%20request)** with your team size and what you track today, and we'll set up a walkthrough and send your organization an invitation.
+> **SyntaxRoot is invite-only right now.** There's no self-serve signup yet. Email **[hello@thoughtparameters.com](mailto:hello@thoughtparameters.com?subject=SyntaxRoot%20invitation%20request)** with your team size and what you track today, and we'll set up a walkthrough and send your organization an invitation.
 
 ---
 
@@ -166,7 +166,7 @@ SyntaxRoot is in **invite-only early access** while we onboard a small group of 
 
 | Step | What happens |
 | :--: | :-- |
-| **1** | Email **[hello@syntaxroot.cc](mailto:hello@syntaxroot.cc?subject=SyntaxRoot%20invitation%20request)** or use **Request a Demo** on [syntaxroot.cc](https://syntaxroot.cc) |
+| **1** | Email **[hello@thoughtparameters.com](mailto:hello@thoughtparameters.com?subject=SyntaxRoot%20invitation%20request)** or use **Request a Demo** on [syntaxroot.cc](https://syntaxroot.cc) |
 | **2** | We run a walkthrough with your team, using your real incident, change, and asset workflows |
 | **3** | We create your organization and send invitations to your admins |
 | **4** | Your team signs in with Google at [syntaxroot.cc/login](https://syntaxroot.cc/login/) |
@@ -204,6 +204,7 @@ SyntaxRoot is built and operated by **[Thought Parameters LLC](https://thoughtpa
 | **Product lead** | [Jason Lee Miller](https://github.com/jasonmiller-cc), Founder &amp; CEO, Thought Parameters |
 | **Engineering** | Oluwatobi Ogundimu |
 | **Company** | [thoughtparameters.com](https://thoughtparameters.com) · [GitHub](https://github.com/ThoughtParameters) · 1 (888) 875-1399 |
+| **Contact** | General &amp; invitations: [hello@thoughtparameters.com](mailto:hello@thoughtparameters.com) · Security reports only: [security@thoughtparameters.com](mailto:security@thoughtparameters.com) |
 
 > **Need a team that can design, build, and operate software like this?** Thought Parameters builds custom platforms for clients too. [Let's talk.](https://thoughtparameters.com)
 

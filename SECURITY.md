@@ -9,7 +9,9 @@ SyntaxRoot is a product of Thought Parameters LLC. This policy covers the Syntax
 Report vulnerabilities privately through either channel:
 
 - GitHub: use **"Report a vulnerability"** on the repository's **Security** tab (private vulnerability reporting)
-- Email: **hello@syntaxroot.cc** with the subject line `SECURITY`
+- Email: **[security@thoughtparameters.com](mailto:security@thoughtparameters.com)** (Thought Parameters handles security for SyntaxRoot)
+
+Please send only security reports to this address. For invitations and general questions, use **hello@thoughtparameters.com**.
 
 Include the affected component (web app, API, or repository), steps to reproduce, and the impact you observed. Please don't access or modify other customers' data while testing.
 
